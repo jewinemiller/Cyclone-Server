@@ -1,0 +1,20 @@
+{
+  "name": "cyclone-server",
+  "version": "0.1.0",
+  "description": "Server for the Cyclone App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/togeojson": "^0.16.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fstream": "^1.0.12",
+    "jszip": "^3.5.0",
+    "xml2js": "^0.4.23",
+    "zlib": "^1.0.5"
+  }
+}
